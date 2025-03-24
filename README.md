@@ -18,7 +18,7 @@ I’m passionate about astronomy, AI, and cybersecurity. I love working on proje
 
 Programming: Python, C, OCaml
 
-Web: HTML, CSS, JavaScript
+Web: HTML, CSS
 
 Databases: SQL, ADQL
 
