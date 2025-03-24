@@ -1,16 +1,33 @@
-## Hi there 👋
+## Hi there, I'm Lina! 👋
 
-<!--
-**LinBabayan/LinBabayan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Developer | Astrophysics Enthusiast | IT Security Researcher
 
-Here are some ideas to get you started:
+I’m passionate about astronomy, AI, and cybersecurity. I love working on projects that merge science and technology.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+-----------------
+
+# 💡 Currently working on:
+
+ Stellaris – A tool for querying and analyzing astronomical data
+
+ IT Security Project – DDoS protection automation for incident response
+
+----------------
+
+# 🔧 Tech Stack
+
+Programming: Python, C, OCaml
+
+Web: HTML, CSS, JavaScript
+
+Databases: SQL, ADQL
+
+Other: Machine Learning, Data Analysis, Cybersecurity
+
+--------------------
+
+# 📫 Let’s Connect
+
+LinkedIn: [www.linkedin.com/in/lina-babayan]
+
+Email: [linabaog@gmail.com]
