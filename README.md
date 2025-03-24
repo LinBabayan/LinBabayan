@@ -1,4 +1,4 @@
-## Hi there, I'm Lina! 👋
+## Hi there, I'm Lina! 
 
 ### Developer | Astrophysics Enthusiast | IT Security Researcher
 
@@ -6,7 +6,7 @@ I’m passionate about astronomy, AI, and cybersecurity. I love working on proje
 
 -----------------
 
-# 💡 Currently working on:
+#  Currently working on:
 
  Stellaris – A tool for querying and analyzing astronomical data
 
@@ -14,7 +14,7 @@ I’m passionate about astronomy, AI, and cybersecurity. I love working on proje
 
 ----------------
 
-# 🔧 Tech Stack
+#  Tech Stack
 
 Programming: Python, C, OCaml
 
@@ -26,7 +26,7 @@ Other: Machine Learning, Data Analysis, Cybersecurity
 
 --------------------
 
-# 📫 Let’s Connect
+#  Let’s Connect
 
 LinkedIn: [www.linkedin.com/in/lina-babayan]
 
