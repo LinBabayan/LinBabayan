@@ -16,7 +16,7 @@ I’m passionate about astronomy, AI, and cybersecurity. I love working on proje
 
 ##  Tech Stack
 
-Programming: Python, C, OCaml
+Programming: Python, C, Linux, OCaml
 
 Web: HTML, CSS
 
