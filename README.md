@@ -1,4 +1,4 @@
-# Hi there, I'm Lina!
+# Hi, I'm Lina!
 
 ### C++ R&D Developer | AI Master's Student | Scientific Computing Enthusiast
 
