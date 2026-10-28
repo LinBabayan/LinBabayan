@@ -1,6 +1,6 @@
 # Hi, I'm Lina!
 
-### C++ R&D Developer | AI Master's Student | Scientific Computing Enthusiast
+### C++ R&D Developer | AI Master's Student 
 
 I'm a software developer and AI master's student at the **French University in Armenia (UFAR)**, with a background in computer science, applied mathematics, and scientific research.
 
